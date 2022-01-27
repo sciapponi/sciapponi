@@ -1,5 +1,5 @@
 Hi, I'm Stefano, I'm currently an AI Masters student in Bologna. <br>
-This account is mainly used as a protfolio for school projects so you won't find nothing truly fancy here.
+This account is mainly used as a protfolio for school projects so you won't find anything truly fancy here.
 <br>Have a nice day!
 
 <!---
