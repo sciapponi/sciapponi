@@ -1,4 +1,4 @@
-My name's Stefano, I'm an Information Engineering PhD student at Fondazione Bruno Kessler (E3DA research unit). <br>
+My name's Stefano, I'm an Information Engineering PhD student at Fondazione Bruno Kessler ([E3DA research unit](https://e3da.fbk.eu/)). <br>
 
 My main research interests are TinyML, Edge AI, Speech Technologies and Audio Processing.
 Generally speaking, I'd say I quite enjoy algorithms and everything computation related.
