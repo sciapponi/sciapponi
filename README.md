@@ -1,6 +1,6 @@
 Hi! My name's Stefano, I'm an Information Engineering PhD student at Fondazione Bruno Kessler ([E3DA research unit](https://e3da.fbk.eu/)). <br>
 
-My main research focuses on Edge AI for Audio Processing, with some IoT spice on it, for flavour enhancements.
+My main research focus is Edge AI for Audio Processing, with some IoT spice on it, for flavour enhancements.
 Generally speaking, I'd say I quite enjoy algorithms and everything computation related.
 
 <!---
